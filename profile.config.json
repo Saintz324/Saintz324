@@ -1,22 +1,71 @@
 {
   "profile": {
     "name": "Eduardo Silva",
+    "username": "Saintz324",
     "headline": "Full Stack Developer",
-    "bio": "Passionate developer building modern web applications. Experienced in full-stack development with React, Node.js, and Next.js. Always learning and exploring new technologies.",
+    "affiliation": "Software Developer",
     "location": "Portugal, Barreiro",
-    "email": "onlyedu1@hotmail.com",
-    "skills": [
-      "React",
-      "Node.js",
-      "Next.js",
-      "Java",
-      "Python",
-      "PostgreSQL",
-      "C#"
-    ],
-    "social": {
-      "github": "Saintz324",
-      "email": "onlyedu1@hotmail.com"
+    "status": "Open to opportunities",
+    "about": [
+      "Passionate full-stack developer from Portugal building modern web applications with cutting-edge technologies.",
+      "Experienced in React, Node.js, Next.js, and backend development. Committed to writing clean, scalable code.",
+      "Always learning and exploring new technologies. Open to collaborations on interesting projects."
+    ]
+  },
+  "research": {
+    "primary": "Full Stack Web Development",
+    "direction": "Building scalable applications",
+    "themes": "Modern JavaScript, Cloud Architecture",
+    "narrative": "Focused on developing robust, scalable web applications using modern technologies. Interested in cloud-native development practices and building systems that can handle real-world challenges."
+  },
+  "focus": [
+    {
+      "name": "Web Development",
+      "description": "Building responsive and interactive web applications using React and Next.js"
+    },
+    {
+      "name": "Backend Development",
+      "description": "Creating robust APIs and services with Node.js and Python"
+    },
+    {
+      "name": "Database Design",
+      "description": "Designing and optimizing PostgreSQL databases for performance"
     }
-  }
+  ],
+  "projects": [
+    {
+      "name": "Portfolio",
+      "url": "https://github.com/Saintz324",
+      "focus": "Full Stack Development",
+      "summary": "Personal portfolio showcasing full stack development projects and technical skills.",
+      "heroLabel": "View Projects"
+    }
+  ],
+  "techStack": [
+    "React",
+    "Node.js",
+    "Next.js",
+    "JavaScript",
+    "Python",
+    "Java",
+    "PostgreSQL",
+    "C#"
+  ],
+  "links": [
+    {
+      "label": "GitHub",
+      "value": "Saintz324",
+      "url": "https://github.com/Saintz324",
+      "logo": "github",
+      "color": "000000"
+    }
+  ],
+  "activity": {
+    "enabled": false,
+    "limit": 5
+  },
+  "appearance": {
+    "palette": "ocean"
+  },
+  "footer": "Building web applications that make a difference. Contact: onlyedu1@hotmail.com"
 }
