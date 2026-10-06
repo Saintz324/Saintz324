@@ -1,0 +1,22 @@
+{
+  "profile": {
+    "name": "Eduardo Silva",
+    "headline": "Full Stack Developer",
+    "bio": "Passionate developer building modern web applications. Experienced in full-stack development with React, Node.js, and Next.js. Always learning and exploring new technologies.",
+    "location": "Portugal, Barreiro",
+    "email": "onlyedu1@hotmail.com",
+    "skills": [
+      "React",
+      "Node.js",
+      "Next.js",
+      "Java",
+      "Python",
+      "PostgreSQL",
+      "C#"
+    ],
+    "social": {
+      "github": "Saintz324",
+      "email": "onlyedu1@hotmail.com"
+    }
+  }
+}
